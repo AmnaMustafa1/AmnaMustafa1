@@ -4,7 +4,8 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for blendin
 
 ### 🚀 About Me:
 - 🌟 **Versatile Professional** in **Software Engineering & Data Analytics**
-- 🎙️ **Public Speaker** and **Event Host**
+- 👠 **Model & Brand Ambassador**
+- 🎙️ **Public Speaker**
 - 🏆 Winner of **Pakistan Mega Software Exhibition**
 
 ### 💼 My Expertise:
