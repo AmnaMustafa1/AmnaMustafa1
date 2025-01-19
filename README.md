@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for blendin
 - 🌟 **Versatile Professional** in **Software Engineering & Data Analytics**
 - 👠 **Model & Brand Ambassador**
 - 🎙️ **Public Speaker**
-- 🏆 Winner of **Pakistan Mega Software Exhibition**
+- 🏆 Winner of **Global Competition**
 
 ### 💼 My Expertise:
  I've worked with a wide range of programming languages, frameworks, and technologies, allowing me to build robust software solutions. Below are some key tools and technologies I specialize in:
@@ -45,6 +45,7 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for blendin
 - **Fields**: Software Engineering, Data Visualization, Social Media Marketing, Brand Growth Strategies , Software Solutions Consulting , Content Strategy and Creation
 
 ### 🌟 Achievements:
+- 🏆 Winner of **Global Competition**
 - 🏆 **Winner** of **Pakistan Mega Software Exhibition**
 - 🎉 Developed the **Attendance System** for **Habib Girls' School**
 - 🚀 Hosted multiple tech and robotics events
